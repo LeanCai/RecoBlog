@@ -1,4 +1,5 @@
 module.exports = {
+  "base": "/RecoBlog/",
   "title": "RecoBlog",
   "description": "blog theme reco",
   "dest": "public",
